@@ -1,12 +1,12 @@
 {
-    "name": "react-native-picker-select",
-    "version": "6.3.3",
-    "description": "A Picker component for React Native which emulates the native <select> interfaces for each platform",
+    "name": "react-native-picker-ios-android",
+    "version": "1.0.0",
+    "description": "A Picker component for React Native which emulates the native <select> interfaces for each platform, with no auto closing on iOS arrows",
     "license": "MIT",
-    "author": "Michael Lefkowitz <lefkowitz.michael@gmail.com>",
+    "author": "Amélie THERY, after Michael Lefkowitz <lefkowitz.michael@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/lawnstarter/react-native-picker-select.git"
+        "url": "https://github.com/memelie/react-native-picker-select"
     },
     "main": "src/index.js",
     "keywords": [

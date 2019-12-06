@@ -5,7 +5,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/095f5b1ee137705ed382/test_coverage)](https://codeclimate.com/github/lawnstarter/react-native-picker-select/test_coverage)
 [![CircleCI](https://circleci.com/gh/lawnstarter/react-native-picker-select.svg?style=svg)](https://circleci.com/gh/lawnstarter/react-native-picker-select)
 
-A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android
+A Picker component for React Native which emulates the native `<select>` interfaces for iOS and Android, with no autoclosing on iOS Arrows
 
 For iOS, by default we are wrapping an unstyled TextInput component. You can then pass down styles to customize it to your needs.
 
